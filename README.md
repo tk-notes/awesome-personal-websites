@@ -1,3 +1,4 @@
 - [Muan, @github](https://muan.co/)
 - [Diéssica, @hellofresh](https://diessi.ca/)
 - [Lucas Ou-Yang, @snapchat](https://codelucas.com/)
+- [Sihui Huang, @gusto](https://www.sihui.io/)
