@@ -7,3 +7,4 @@
 - [Philip Walton, @google](https://www.jillwetzler.com/)
 - [Mariko Kosaka, @scripto](https://kosamari.com/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
+- [Enlton Mineto, @codenation](https://eltonminetto.net)
