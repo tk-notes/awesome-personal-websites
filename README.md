@@ -8,3 +8,4 @@
 - [Mariko Kosaka, @scripto](https://kosamari.com/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Enlton Mineto, @codenation](https://eltonminetto.net)
+- [Avelino, @avelinorun](https://avelino.run/blog/)
