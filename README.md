@@ -9,4 +9,5 @@
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Enlton Mineto, @codenation](https://eltonminetto.net)
 - [Avelino, @avelinorun](https://avelino.run/blog/)
-- [Mary Rose Cook, @maryrosecook](https://maryrosecook.com/) 
+- [Mary Rose Cook, @maryrosecook](https://maryrosecook.com/)
+- [kenneth Reitz, @kennethreitz](https://www.kennethreitz.org)
