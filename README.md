@@ -11,3 +11,4 @@
 - [Avelino, @avelinorun](https://avelino.run/blog/)
 - [Mary Rose Cook, @maryrosecook](https://maryrosecook.com/)
 - [kenneth Reitz, @kennethreitz](https://www.kennethreitz.org)
+- [Maurício Aniche, @mauricioaniche](https://www.mauricioaniche.com/)
