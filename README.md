@@ -12,3 +12,4 @@
 - [Mary Rose Cook, @maryrosecook](https://maryrosecook.com/)
 - [kenneth Reitz, @kennethreitz](https://www.kennethreitz.org)
 - [Maurício Aniche, @mauricioaniche](https://www.mauricioaniche.com/)
+- [Eric Douglas, @ericdouglas](https://ericdouglas.github.io/)
