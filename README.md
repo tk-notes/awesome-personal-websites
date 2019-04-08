@@ -14,3 +14,5 @@
 - [Maurício Aniche, @mauricioaniche](https://www.mauricioaniche.com/)
 - [Eric Douglas, @ericdouglas](https://ericdouglas.github.io/)
 - [Matheus Costa, @mrcambota](https://mateuscosta.me/)
+- [Henry Zhu, @left_pad](https://www.henryzoo.com)
+- [Feross, @feross](https://feross.org/)
