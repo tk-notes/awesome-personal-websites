@@ -13,3 +13,4 @@
 - [kenneth Reitz, @kennethreitz](https://www.kennethreitz.org)
 - [Maurício Aniche, @mauricioaniche](https://www.mauricioaniche.com/)
 - [Eric Douglas, @ericdouglas](https://ericdouglas.github.io/)
+- [Matheus Costa, @mrcambota](https://mateuscosta.me/)
