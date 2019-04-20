@@ -16,3 +16,4 @@
 - [Matheus Costa, @mrcambota](https://mateuscosta.me/)
 - [Henry Zhu, @left_pad](https://www.henryzoo.com)
 - [Feross, @feross](https://feross.org/)
+- [Phil Freeman, @paf31](https://blog.functorial.com/)
