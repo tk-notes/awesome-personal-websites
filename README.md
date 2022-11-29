@@ -4,6 +4,7 @@
 
 - [Hundred Rabbits](http://100r.co)
 - [TK](https://www.iamtk.co)
+- [Park Jihyeok, PhD PLT](https://park.jihyeok.site)
 - [Muan, @github](https://muan.co/)
 - [Diéssica, @hellofresh](https://diessi.ca/)
 - [Lucas Ou-Yang, @snapchat](https://codelucas.com/)
