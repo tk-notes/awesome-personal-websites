@@ -19,5 +19,6 @@
 - [Phil Freeman, @paf31](https://blog.functorial.com)
 - [Tristan Hume](https://thume.ca)
 - [Rauno](https://rauno.me)
+  [Kipply](https://kipp.ly)
 
 </samp>
