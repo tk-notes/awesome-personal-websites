@@ -20,5 +20,11 @@
 - [Tristan Hume](https://thume.ca)
 - [Rauno](https://rauno.me)
   [Kipply](https://kipp.ly)
+  [Nanda Syahrasyad](https://www.nan.fyi)
+  [Ben](https://kaleidawave.github.io)
+  [Lillian](https://lilianweng.github.io)
+  [Shu Ding](https://shud.in)
+  [Slim](https://slim.computer)
+  [Pine](https://blog.matsu.io)
 
 </samp>
