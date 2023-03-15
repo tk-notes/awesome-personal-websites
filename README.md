@@ -5,6 +5,7 @@
 - [Hundred Rabbits](http://100r.co)
 - [TK](https://www.iamtk.co)
 - [Vaclav Smil](https://vaclavsmil.com)
+- [Patrick Collins](https://patrickcollison.com)
 - [Park Jihyeok](https://park.jihyeok.site)
 - [Muan](https://muan.co)
 - [Diéssica](https://diessi.ca)
