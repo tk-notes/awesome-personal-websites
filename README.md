@@ -28,6 +28,5 @@
 - [Shu Ding](https://shud.in)
 - [Slim](https://slim.computer)
 - [Pine](https://blog.matsu.io)
-- [Nanda Syahrasyad](https://www.nan.fyi)
 
 </samp>
