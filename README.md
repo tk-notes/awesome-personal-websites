@@ -28,5 +28,6 @@
 - [Shu Ding](https://shud.in)
 - [Slim](https://slim.computer)
 - [Pine](https://blog.matsu.io)
+- [Hattie Zhou](http://hattiezhou.com)
 
 </samp>
