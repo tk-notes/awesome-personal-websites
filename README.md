@@ -30,5 +30,6 @@
 - [Pine](https://blog.matsu.io)
 - [Hattie Zhou](http://hattiezhou.com)
 - [Filippo Valsorda](https://words.filippo.io)
+- [Rui Costi](https://r.conti.sh)
 
 </samp>
