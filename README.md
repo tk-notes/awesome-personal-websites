@@ -31,5 +31,6 @@
 - [Hattie Zhou](http://hattiezhou.com)
 - [Filippo Valsorda](https://words.filippo.io)
 - [Rui Costi](https://r.conti.sh)
+- [Nayuki](https://www.nayuki.io)
 
 </samp>
