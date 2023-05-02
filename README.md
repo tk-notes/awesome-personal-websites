@@ -32,5 +32,6 @@
 - [Filippo Valsorda](https://words.filippo.io)
 - [Rui Costi](https://r.conti.sh)
 - [Nayuki](https://www.nayuki.io)
+- [André Staltz](https://staltz.com/blog.html)
 
 </samp>
