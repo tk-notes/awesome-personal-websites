@@ -34,5 +34,6 @@
 - [Nayuki](https://www.nayuki.io)
 - [André Staltz](https://staltz.com/blog.html)
 - [Gabi](https://gabx.io)
+- [Algebraic](https://algebraic.dev)
 
 </samp>
