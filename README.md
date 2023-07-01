@@ -35,5 +35,6 @@
 - [André Staltz](https://staltz.com/blog.html)
 - [Gabi](https://gabx.io)
 - [Algebraic](https://algebraic.dev)
+- [Huy](https://www.huy.rocks/everyday)
 
 </samp>
