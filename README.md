@@ -36,5 +36,6 @@
 - [Gabi](https://gabx.io)
 - [Algebraic](https://algebraic.dev)
 - [Huy](https://www.huy.rocks/everyday)
+- [Andreas Rossberg](https://people.mpi-sws.org/~rossberg)
 
 </samp>
