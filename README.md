@@ -37,5 +37,6 @@
 - [Algebraic](https://algebraic.dev)
 - [Huy](https://www.huy.rocks/everyday)
 - [Andreas Rossberg](https://people.mpi-sws.org/~rossberg)
+- [Sam Tobin-Hochstadt](http://samth.github.io)
 
 </samp>
