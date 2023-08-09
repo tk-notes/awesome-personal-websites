@@ -38,5 +38,6 @@
 - [Huy](https://www.huy.rocks/everyday)
 - [Andreas Rossberg](https://people.mpi-sws.org/~rossberg)
 - [Sam Tobin-Hochstadt](http://samth.github.io)
+- [Guilherme Kunigami](https://www.kuniga.me/blog)
 
 </samp>
