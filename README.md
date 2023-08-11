@@ -39,5 +39,6 @@
 - [Andreas Rossberg](https://people.mpi-sws.org/~rossberg)
 - [Sam Tobin-Hochstadt](http://samth.github.io)
 - [Guilherme Kunigami](https://www.kuniga.me/blog)
+- [Patricia Mou](https://www.patriciamou.com)
 
 </samp>
