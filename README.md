@@ -40,5 +40,6 @@
 - [Sam Tobin-Hochstadt](http://samth.github.io)
 - [Guilherme Kunigami](https://www.kuniga.me/blog)
 - [Patricia Mou](https://www.patriciamou.com)
+- [Anne Ouyang](https://www.anneouyang.com)
 
 </samp>
