@@ -41,5 +41,6 @@
 - [Guilherme Kunigami](https://www.kuniga.me/blog)
 - [Patricia Mou](https://www.patriciamou.com)
 - [Anne Ouyang](https://www.anneouyang.com)
+- [Ajay Brahmakshatriya](https://intimeand.space)
 
 </samp>
