@@ -42,5 +42,6 @@
 - [Patricia Mou](https://www.patriciamou.com)
 - [Anne Ouyang](https://www.anneouyang.com)
 - [Ajay Brahmakshatriya](https://intimeand.space)
+- [Simon Hørup Eskildsen](https://sirupsen.com)
 
 </samp>
