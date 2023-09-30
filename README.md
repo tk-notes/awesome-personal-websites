@@ -43,5 +43,6 @@
 - [Anne Ouyang](https://www.anneouyang.com)
 - [Ajay Brahmakshatriya](https://intimeand.space)
 - [Simon Hørup Eskildsen](https://sirupsen.com)
+- [Tzu-Han Hsu](https://tzuhancs.github.io)
 
 </samp>
