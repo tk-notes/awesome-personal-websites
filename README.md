@@ -4,6 +4,7 @@
 
 - [Hundred Rabbits](http://100r.co)
 - [Devine Lu Linvega](https://wiki.xxiivv.com)
+- [Webring](https://webring.xxiivv.com)
 - [TK](https://www.iamtk.co)
 - [Vaclav Smil](https://vaclavsmil.com)
 - [Patrick Collison](https://patrickcollison.com)
