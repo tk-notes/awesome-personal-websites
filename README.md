@@ -46,5 +46,6 @@
 - [Ajay Brahmakshatriya](https://intimeand.space)
 - [Simon Hørup Eskildsen](https://sirupsen.com)
 - [Tzu-Han Hsu](https://tzuhancs.github.io)
+- [Valeria de Paiva](http://vcvpaiva.github.io)
 
 </samp>
