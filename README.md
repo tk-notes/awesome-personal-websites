@@ -47,5 +47,6 @@
 - [Simon Hørup Eskildsen](https://sirupsen.com)
 - [Tzu-Han Hsu](https://tzuhancs.github.io)
 - [Valeria de Paiva](http://vcvpaiva.github.io)
+- [Logic ForAll](http://logic-forall.blogspot.com)
 
 </samp>
