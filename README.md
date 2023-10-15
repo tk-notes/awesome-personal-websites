@@ -49,4 +49,8 @@
 - [Valeria de Paiva](http://vcvpaiva.github.io)
 - [Logic ForAll](http://logic-forall.blogspot.com)
 
+# Awesome YouTube Channels
+
+- [ACM SIGPLAN](https://www.youtube.com/@acmsigplan)
+
 </samp>
