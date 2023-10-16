@@ -63,5 +63,6 @@
 - [Dr. Benjamin Hardy](https://www.youtube.com/@dr.benjaminhardy)
 - [Freethink](https://www.youtube.com/@freethink)
 - [Han Zhango](https://www.youtube.com/@hanzhango)
+- [Hundred Rabbits](https://www.youtube.com/@HundredRabbits)
 
 </samp>
