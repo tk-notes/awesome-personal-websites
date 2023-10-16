@@ -52,5 +52,6 @@
 # Awesome YouTube Channels
 
 - [ACM SIGPLAN](https://www.youtube.com/@acmsigplan)
+- [Andreas Kling](https://www.youtube.com/@awesomekling)
 
 </samp>
