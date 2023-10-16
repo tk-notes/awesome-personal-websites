@@ -56,5 +56,6 @@
 - [Antinomywip](https://www.youtube.com/@antinomywip)
 - [BlinkOn](https://www.youtube.com/@blinkontalks)
 - [CAFICT](https://www.youtube.com/@CAFICT-channel)
+- [CompilersLab](https://www.youtube.com/@compilerslab)
 
 </samp>
