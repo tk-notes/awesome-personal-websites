@@ -61,5 +61,6 @@
 - [Context Free](https://www.youtube.com/@contextfree)
 - [devaslife](https://www.youtube.com/@devaslife)
 - [Dr. Benjamin Hardy](https://www.youtube.com/@dr.benjaminhardy)
+- [Freethink](https://www.youtube.com/@freethink)
 
 </samp>
