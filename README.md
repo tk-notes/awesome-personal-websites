@@ -64,5 +64,6 @@
 - [Freethink](https://www.youtube.com/@freethink)
 - [Han Zhango](https://www.youtube.com/@hanzhango)
 - [Hundred Rabbits](https://www.youtube.com/@HundredRabbits)
+- [Japanese food craftsman](https://www.youtube.com/@Japanesefoodcraftsman)
 
 </samp>
