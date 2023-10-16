@@ -60,5 +60,6 @@
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [Context Free](https://www.youtube.com/@contextfree)
 - [devaslife](https://www.youtube.com/@devaslife)
+- [Dr. Benjamin Hardy](https://www.youtube.com/@dr.benjaminhardy)
 
 </samp>
