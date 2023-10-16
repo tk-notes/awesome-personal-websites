@@ -57,5 +57,6 @@
 - [BlinkOn](https://www.youtube.com/@blinkontalks)
 - [CAFICT](https://www.youtube.com/@CAFICT-channel)
 - [CompilersLab](https://www.youtube.com/@compilerslab)
+- [Computerphile](https://www.youtube.com/@Computerphile)
 
 </samp>
