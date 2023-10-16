@@ -66,5 +66,6 @@
 - [Hundred Rabbits](https://www.youtube.com/@HundredRabbits)
 - [Japanese food craftsman](https://www.youtube.com/@Japanesefoodcraftsman)
 - [PhysicsGirl](https://www.youtube.com/@PhysicsGirl-com)
+- [Se-ya](https://www.youtube.com/@se-ya)
 
 </samp>
