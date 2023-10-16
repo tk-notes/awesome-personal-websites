@@ -62,5 +62,6 @@
 - [devaslife](https://www.youtube.com/@devaslife)
 - [Dr. Benjamin Hardy](https://www.youtube.com/@dr.benjaminhardy)
 - [Freethink](https://www.youtube.com/@freethink)
+- [Han Zhango](https://www.youtube.com/@hanzhango)
 
 </samp>
