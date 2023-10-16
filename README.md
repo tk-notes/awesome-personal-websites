@@ -59,5 +59,6 @@
 - [CompilersLab](https://www.youtube.com/@compilerslab)
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [Context Free](https://www.youtube.com/@contextfree)
+- [devaslife](https://www.youtube.com/@devaslife)
 
 </samp>
