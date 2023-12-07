@@ -4,10 +4,11 @@
 
 - [Hundred Rabbits](http://100r.co)
 - [Devine Lu Linvega](https://wiki.xxiivv.com)
-- [Webring](https://webring.xxiivv.com)
+- [Terence Tao](https://terrytao.wordpress.com)
 - [TK](https://www.iamtk.co)
 - [Vaclav Smil](https://vaclavsmil.com)
 - [Patrick Collison](https://patrickcollison.com)
+- [Webring](https://webring.xxiivv.com)
 - [Park Jihyeok](https://park.jihyeok.site)
 - [Muan](https://muan.co)
 - [Diéssica](https://diessi.ca)
