@@ -53,6 +53,7 @@
 - [Ningning Xie](https://xnning.github.io)
 - [Andrej Karpathy](https://karpathy.ai)
 - [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
+- [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton)
 
 # Awesome YouTube Channels
 
