@@ -51,6 +51,7 @@
 - [Logic ForAll](http://logic-forall.blogspot.com)
 - [Chelsea Voss](https://csvoss.com)
 - [Ningning Xie](https://xnning.github.io)
+- [Andrej Karpathy](https://karpathy.ai)
 
 # Awesome YouTube Channels
 
