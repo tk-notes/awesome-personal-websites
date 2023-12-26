@@ -54,6 +54,7 @@
 - [Andrej Karpathy](https://karpathy.ai)
 - [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
 - [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton)
+- [Andrew Ng](http://andrewng.org)
 
 # Awesome YouTube Channels
 
