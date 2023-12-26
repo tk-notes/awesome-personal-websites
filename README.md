@@ -52,6 +52,7 @@
 - [Chelsea Voss](https://csvoss.com)
 - [Ningning Xie](https://xnning.github.io)
 - [Andrej Karpathy](https://karpathy.ai)
+- [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
 
 # Awesome YouTube Channels
 
