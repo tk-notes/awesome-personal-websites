@@ -57,6 +57,7 @@
 - [Andrew Ng](http://andrewng.org)
 - [Jean Fan](https://jean.fan)
 - [Pranav Rajpurkar](https://pranavrajpurkar.com)
+- [Kevin Liu](https://kevinliu.me)
 
 # Awesome YouTube Channels
 
