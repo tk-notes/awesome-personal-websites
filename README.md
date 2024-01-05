@@ -58,6 +58,7 @@
 - [Jean Fan](https://jean.fan)
 - [Pranav Rajpurkar](https://pranavrajpurkar.com)
 - [Kevin Liu](https://kevinliu.me)
+- [Rob Pike](https://commandcenter.blogspot.com)
 
 # Awesome YouTube Channels
 
