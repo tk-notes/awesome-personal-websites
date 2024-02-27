@@ -59,6 +59,7 @@
 - [Pranav Rajpurkar](https://pranavrajpurkar.com)
 - [Kevin Liu](https://kevinliu.me)
 - [Rob Pike](https://commandcenter.blogspot.com)
+- [Nat Eliason](https://www.nateliason.com)
 
 # Awesome YouTube Channels
 
