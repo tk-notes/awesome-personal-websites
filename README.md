@@ -60,6 +60,7 @@
 - [Kevin Liu](https://kevinliu.me)
 - [Rob Pike](https://commandcenter.blogspot.com)
 - [Nat Eliason](https://www.nateliason.com)
+- [Satomi Tokida](https://imsatomi.github.io)
 
 # Awesome YouTube Channels
 
