@@ -62,6 +62,7 @@
 - [Nat Eliason](https://www.nateliason.com)
 - [Satomi Tokida](https://imsatomi.github.io)
 - [Erika](https://erika.florist)
+- [Sukka](https://skk.moe)
 
 # Awesome YouTube Channels
 
