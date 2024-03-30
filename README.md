@@ -63,6 +63,7 @@
 - [Satomi Tokida](https://imsatomi.github.io)
 - [Erika](https://erika.florist)
 - [Sukka](https://skk.moe)
+- [Sophia Sun](https://huiwenn.github.io)
 
 # Awesome YouTube Channels
 
