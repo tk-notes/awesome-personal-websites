@@ -68,6 +68,7 @@
 - [Laurence Tratt](https://tratt.net/laurie/blog/archive.html)
 - [Stefan Marr](https://stefan-marr.de)
 - [Wingo](https://wingolog.org)
+- [Max Bernstein](https://bernsteinbear.com)
 
 # Awesome YouTube Channels
 
