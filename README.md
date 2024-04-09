@@ -64,6 +64,7 @@
 - [Erika](https://erika.florist)
 - [Sukka](https://skk.moe)
 - [Sophia Sun](https://huiwenn.github.io)
+- [Fernando Borretti](https://borretti.me/article)
 
 # Awesome YouTube Channels
 
