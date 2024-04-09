@@ -67,6 +67,7 @@
 - [Fernando Borretti](https://borretti.me/article)
 - [Laurence Tratt](https://tratt.net/laurie/blog/archive.html)
 - [Stefan Marr](https://stefan-marr.de)
+- [Wingo](https://wingolog.org)
 
 # Awesome YouTube Channels
 
