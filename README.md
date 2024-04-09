@@ -65,6 +65,7 @@
 - [Sukka](https://skk.moe)
 - [Sophia Sun](https://huiwenn.github.io)
 - [Fernando Borretti](https://borretti.me/article)
+- [Laurence Tratt](https://tratt.net/laurie/blog/archive.html)
 
 # Awesome YouTube Channels
 
