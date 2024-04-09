@@ -66,6 +66,7 @@
 - [Sophia Sun](https://huiwenn.github.io)
 - [Fernando Borretti](https://borretti.me/article)
 - [Laurence Tratt](https://tratt.net/laurie/blog/archive.html)
+- [Stefan Marr](https://stefan-marr.de)
 
 # Awesome YouTube Channels
 
