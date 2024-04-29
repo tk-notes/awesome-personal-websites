@@ -69,6 +69,7 @@
 - [Stefan Marr](https://stefan-marr.de)
 - [Wingo](https://wingolog.org)
 - [Max Bernstein](https://bernsteinbear.com)
+- [Irene Chen](https://irenechen.net)
 
 # Awesome YouTube Channels
 
