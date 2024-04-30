@@ -70,6 +70,10 @@
 - [Wingo](https://wingolog.org)
 - [Max Bernstein](https://bernsteinbear.com)
 - [Irene Chen](https://irenechen.net)
+- [Jonathan Taylor](https://jtaylor.su.domains)
+- [Rob Tibshirani](https://tibshirani.su.domains)
+- [Trevor Hastie](https://hastie.su.domains)
+- [Daniela Witten](https://www.danielawitten.com)
 
 # Awesome YouTube Channels
 
