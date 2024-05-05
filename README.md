@@ -65,7 +65,6 @@
 - [Wingo](https://wingolog.org)
 - [Max Bernstein](https://bernsteinbear.com)
 - [Irene Chen](https://irenechen.net)
-- [Jonathan Taylor](https://jtaylor.su.domains)
 
 ## AI & Machine Learning
 
@@ -78,6 +77,7 @@
 - [Christopher Olah](https://colah.github.io)
 - [Alex Irpan](https://www.alexirpan.com)
 - [Gwern Branwen](https://gwern.net)
+- [Jonathan Taylor](https://jtaylor.su.domains)
 
 # Awesome YouTube Channels
 
