@@ -10,8 +10,6 @@
 - [Patrick Collison](https://patrickcollison.com)
 - [Webring](https://webring.xxiivv.com)
 - [Park Jihyeok](https://park.jihyeok.site)
-- [Muan](https://muan.co)
-- [Diéssica](https://diessi.ca)
 - [Lucas Ou-Yang](https://codelucas.com)
 - [Sihui Huang](https://www.sihui.io)
 - [Ines Montani](https://ines.io/about)
@@ -27,11 +25,9 @@
 - [Kipply](https://kipp.ly)
 - [Nanda Syahrasyad](https://www.nan.fyi)
 - [Ben](https://kaleidawave.github.io)
-- [Lillian](https://lilianweng.github.io)
 - [Shu Ding](https://shud.in)
 - [Slim](https://slim.computer)
 - [Pine](https://blog.matsu.io)
-- [Hattie Zhou](http://hattiezhou.com)
 - [Filippo Valsorda](https://words.filippo.io)
 - [Rui Costi](https://r.conti.sh)
 - [Nayuki](https://www.nayuki.io)
@@ -49,7 +45,6 @@
 - [Tzu-Han Hsu](https://tzuhancs.github.io)
 - [Valeria de Paiva](http://vcvpaiva.github.io)
 - [Logic ForAll](http://logic-forall.blogspot.com)
-- [Chelsea Voss](https://csvoss.com)
 - [Ningning Xie](https://xnning.github.io)
 - [Andrej Karpathy](https://karpathy.ai)
 - [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
@@ -71,9 +66,18 @@
 - [Max Bernstein](https://bernsteinbear.com)
 - [Irene Chen](https://irenechen.net)
 - [Jonathan Taylor](https://jtaylor.su.domains)
+
+## AI & Machine Learning
+
 - [Rob Tibshirani](https://tibshirani.su.domains)
 - [Trevor Hastie](https://hastie.su.domains)
 - [Daniela Witten](https://www.danielawitten.com)
+- [Hattie Zhou](http://hattiezhou.com)
+- [Chelsea Voss](https://csvoss.com)
+- [Lillian](https://lilianweng.github.io)
+- [Christopher Olah](https://colah.github.io)
+- [Alex Irpan](https://www.alexirpan.com)
+- [Gwern Branwen](https://gwern.net)
 
 # Awesome YouTube Channels
 
