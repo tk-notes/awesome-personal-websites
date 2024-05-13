@@ -78,6 +78,7 @@
 - [Alex Irpan](https://www.alexirpan.com)
 - [Gwern Branwen](https://gwern.net)
 - [Jonathan Taylor](https://jtaylor.su.domains)
+- [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
 
 # Awesome YouTube Channels
 
