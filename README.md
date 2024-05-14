@@ -79,6 +79,7 @@
 - [Gwern Branwen](https://gwern.net)
 - [Jonathan Taylor](https://jtaylor.su.domains)
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
+- [Susan Zhang](https://suchenzang.github.io)
 
 # Awesome YouTube Channels
 
