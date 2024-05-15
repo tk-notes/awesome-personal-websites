@@ -81,6 +81,7 @@
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
 - [Susan Zhang](https://suchenzang.github.io)
 - [Michael Chang](https://mbchang.github.io)
+- [Jan Leike](https://jan.leike.name)
 
 # Awesome YouTube Channels
 
