@@ -82,6 +82,7 @@
 - [Susan Zhang](https://suchenzang.github.io)
 - [Michael Chang](https://mbchang.github.io)
 - [Jan Leike](https://jan.leike.name)
+- [Xiao Ma](https://maxiao.info)
 
 # Awesome YouTube Channels
 
