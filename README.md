@@ -83,6 +83,7 @@
 - [Michael Chang](https://mbchang.github.io)
 - [Jan Leike](https://jan.leike.name)
 - [Xiao Ma](https://maxiao.info)
+- [Gabriele Corso](https://gcorso.github.io)
 
 # Awesome YouTube Channels
 
