@@ -84,6 +84,7 @@
 - [Jan Leike](https://jan.leike.name)
 - [Xiao Ma](https://maxiao.info)
 - [Gabriele Corso](https://gcorso.github.io)
+- [Falk Hoffmann](https://medium.com/@falk_hoffmann)
 
 # Awesome YouTube Channels
 
