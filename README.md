@@ -86,6 +86,7 @@
 - [Gabriele Corso](https://gcorso.github.io)
 - [Falk Hoffmann](https://medium.com/@falk_hoffmann)
 - [Sara Hooker](https://www.sarahooker.me)
+- [Mario Geiger](https://mariogeiger.ch)
 
 # Awesome YouTube Channels
 
