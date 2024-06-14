@@ -87,6 +87,7 @@
 - [Falk Hoffmann](https://medium.com/@falk_hoffmann)
 - [Sara Hooker](https://www.sarahooker.me)
 - [Mario Geiger](https://mariogeiger.ch)
+- [Charlotte Bunne](https://www.bunne.ch)
 
 # Awesome YouTube Channels
 
