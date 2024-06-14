@@ -88,6 +88,7 @@
 - [Sara Hooker](https://www.sarahooker.me)
 - [Mario Geiger](https://mariogeiger.ch)
 - [Charlotte Bunne](https://www.bunne.ch)
+- [Charlie Harris](https://cch1999.github.io)
 
 # Awesome YouTube Channels
 
