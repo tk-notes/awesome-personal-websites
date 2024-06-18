@@ -89,6 +89,7 @@
 - [Mario Geiger](https://mariogeiger.ch)
 - [Charlotte Bunne](https://www.bunne.ch)
 - [Charlie Harris](https://cch1999.github.io)
+- [Yuanqi Du](https://yuanqidu.github.io)
 
 # Awesome YouTube Channels
 
