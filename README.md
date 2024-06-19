@@ -90,6 +90,7 @@
 - [Charlotte Bunne](https://www.bunne.ch)
 - [Charlie Harris](https://cch1999.github.io)
 - [Yuanqi Du](https://yuanqidu.github.io)
+- [Sophia Sanborn](https://www.sophiasanborn.com)
 
 # Awesome YouTube Channels
 
