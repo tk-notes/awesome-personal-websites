@@ -65,6 +65,7 @@
 - [Wingo](https://wingolog.org)
 - [Max Bernstein](https://bernsteinbear.com)
 - [Irene Chen](https://irenechen.net)
+- [Udara Jay](https://udara.io)
 
 ## AI & Machine Learning
 
