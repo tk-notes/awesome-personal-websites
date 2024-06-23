@@ -91,6 +91,12 @@
 - [Charlie Harris](https://cch1999.github.io)
 - [Yuanqi Du](https://yuanqidu.github.io)
 - [Sophia Sanborn](https://www.sophiasanborn.com)
+- [Omar Sanseviero](https://osanseviero.github.io/hackerllama/blog)
+- [Simon Willison](https://simonwillison.net)
+- [Hamel Husain](https://hamel.dev)
+- [Philipp Schmid](https://www.philschmid.de)
+- [Eugene Yan](https://eugeneyan.com/writing)
+- [Chip Huyen](https://huyenchip.com/blog)
 
 # Awesome YouTube Channels
 
