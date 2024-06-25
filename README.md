@@ -98,6 +98,9 @@
 - [Philipp Schmid](https://www.philschmid.de)
 - [Eugene Yan](https://eugeneyan.com/writing)
 - [Chip Huyen](https://huyenchip.com/blog)
+- [Chenru Duan](https://www.crduan.com)
+- [Jeff Guo](https://guojeff.github.io)
+- [Arian Jamal](https://jamasb.io)
 
 # Awesome YouTube Channels
 
