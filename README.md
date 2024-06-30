@@ -102,6 +102,7 @@
 - [Chenru Duan](https://www.crduan.com)
 - [Jeff Guo](https://guojeff.github.io)
 - [Arian Jamal](https://jamasb.io)
+- [Joseph Suárez](https://jsuarez5341.github.io)
 
 # Awesome YouTube Channels
 
