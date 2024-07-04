@@ -67,6 +67,7 @@
 - [Irene Chen](https://irenechen.net)
 - [Udara Jay](https://udara.io)
 - [James Long](https://jlongster.com)
+- [Gwern Branwen](https://gwern.net)
 
 ## AI & Machine Learning
 
