@@ -46,10 +46,6 @@
 - [Valeria de Paiva](http://vcvpaiva.github.io)
 - [Logic ForAll](http://logic-forall.blogspot.com)
 - [Ningning Xie](https://xnning.github.io)
-- [Andrej Karpathy](https://karpathy.ai)
-- [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
-- [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton)
-- [Andrew Ng](http://andrewng.org)
 - [Jean Fan](https://jean.fan)
 - [Pranav Rajpurkar](https://pranavrajpurkar.com)
 - [Kevin Liu](https://kevinliu.me)
@@ -72,6 +68,9 @@
 
 ## AI & Machine Learning
 
+- [Andrej Karpathy](https://karpathy.ai)
+- [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz)
+- [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton)
 - [Rob Tibshirani](https://tibshirani.su.domains)
 - [Trevor Hastie](https://hastie.su.domains)
 - [Daniela Witten](https://www.danielawitten.com)
@@ -105,6 +104,7 @@
 - [Jeff Guo](https://guojeff.github.io)
 - [Arian Jamal](https://jamasb.io)
 - [Joseph Suárez](https://jsuarez5341.github.io)
+- [Andrew Ng](http://andrewng.org)
 
 # Awesome YouTube Channels
 
