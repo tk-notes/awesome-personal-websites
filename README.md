@@ -105,6 +105,7 @@
 - [Arian Jamal](https://jamasb.io)
 - [Joseph Suárez](https://jsuarez5341.github.io)
 - [Andrew Ng](http://andrewng.org)
+- [Mathematics behind Deep learning](https://mathblog.vercel.app)
 
 # Awesome YouTube Channels
 
