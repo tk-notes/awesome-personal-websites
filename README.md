@@ -65,6 +65,7 @@
 - [James Long](https://jlongster.com)
 - [Gwern Branwen](https://gwern.net)
 - [Lucis](https://blog.lucis.dev)
+- [Lúcás Meier](https://cronokirby.com)
 
 ## AI & Machine Learning
 
