@@ -107,6 +107,7 @@
 - [Joseph Suárez](https://jsuarez5341.github.io)
 - [Andrew Ng](http://andrewng.org)
 - [Mathematics behind Deep learning](https://mathblog.vercel.app)
+- [Kevin Kaichuang Yang](https://yangkky.github.io)
 
 # Awesome YouTube Channels
 
