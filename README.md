@@ -108,6 +108,7 @@
 - [Andrew Ng](http://andrewng.org)
 - [Mathematics behind Deep learning](https://mathblog.vercel.app)
 - [Kevin Kaichuang Yang](https://yangkky.github.io)
+- [Terence Parr](https://explained.ai)
 
 # Awesome YouTube Channels
 
