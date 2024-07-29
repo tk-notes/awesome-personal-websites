@@ -109,6 +109,7 @@
 - [Mathematics behind Deep learning](https://mathblog.vercel.app)
 - [Kevin Kaichuang Yang](https://yangkky.github.io)
 - [Terence Parr](https://explained.ai)
+- [Penny Xu](https://penny-xu.github.io)
 
 # Awesome YouTube Channels
 
