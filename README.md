@@ -66,6 +66,7 @@
 - [Gwern Branwen](https://gwern.net)
 - [Lucis](https://blog.lucis.dev)
 - [Lúcás Meier](https://cronokirby.com)
+- [Michael Nielsen](https://michaelnielsen.org)
 
 ## AI & Machine Learning
 
