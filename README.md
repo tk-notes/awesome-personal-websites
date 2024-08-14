@@ -111,6 +111,7 @@
 - [Kevin Kaichuang Yang](https://yangkky.github.io)
 - [Terence Parr](https://explained.ai)
 - [Penny Xu](https://penny-xu.github.io)
+- [Amy X. Lu](https://amyxlu.github.io)
 
 # Awesome YouTube Channels
 
