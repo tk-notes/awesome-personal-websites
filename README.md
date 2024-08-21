@@ -112,6 +112,7 @@
 - [Terence Parr](https://explained.ai)
 - [Penny Xu](https://penny-xu.github.io)
 - [Amy X. Lu](https://amyxlu.github.io)
+- [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr)
 
 # Awesome YouTube Channels
 
