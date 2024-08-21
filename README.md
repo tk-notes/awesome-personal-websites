@@ -113,6 +113,7 @@
 - [Penny Xu](https://penny-xu.github.io)
 - [Amy X. Lu](https://amyxlu.github.io)
 - [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr)
+- [Quanhan (Johnny) Xi](https://xijohnny.github.io)
 
 # Awesome YouTube Channels
 
