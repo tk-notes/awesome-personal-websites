@@ -115,6 +115,7 @@
 - [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr)
 - [Quanhan (Johnny) Xi](https://xijohnny.github.io)
 - [Eric Horvitz](https://erichorvitz.com)
+- [Rinaldo Montalvão](https://www.linkedin.com/in/rwmontalvao)
 
 # Awesome YouTube Channels
 
