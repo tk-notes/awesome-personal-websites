@@ -116,6 +116,7 @@
 - [Quanhan (Johnny) Xi](https://xijohnny.github.io)
 - [Eric Horvitz](https://erichorvitz.com)
 - [Rinaldo Montalvão](https://www.linkedin.com/in/rwmontalvao)
+- [Joanne Peng](https://www.joannepeng.com)
 
 # Awesome YouTube Channels
 
