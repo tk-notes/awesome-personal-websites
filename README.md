@@ -67,6 +67,7 @@
 - [Lucis](https://blog.lucis.dev)
 - [Lúcás Meier](https://cronokirby.com)
 - [Michael Nielsen](https://michaelnielsen.org)
+- [Claromes](https://claromes.com)
 
 ## AI & Machine Learning
 
