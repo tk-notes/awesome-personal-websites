@@ -123,6 +123,7 @@
 - [Ava Amini](https://avaamini.com)
 - [Alex Lu](https://www.alexluresearch.com)
 - [Kevin Kaichuang Yang](https://yangkky.github.io)
+- [Rocío Mercado Oropeza](https://rociomer.github.io)
 
 # Awesome YouTube Channels
 
