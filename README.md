@@ -68,6 +68,7 @@
 - [Lúcás Meier](https://cronokirby.com)
 - [Michael Nielsen](https://michaelnielsen.org)
 - [Claromes](https://claromes.com)
+- [Tina Mai](https://tinabmai.com)
 
 ## AI & Machine Learning
 
