@@ -69,6 +69,7 @@
 - [Michael Nielsen](https://michaelnielsen.org)
 - [Claromes](https://claromes.com)
 - [Tina Mai](https://tinabmai.com)
+- [Samson Zhang](https://samsonzhang.com)
 
 ## AI & Machine Learning
 
