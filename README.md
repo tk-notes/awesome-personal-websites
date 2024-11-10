@@ -127,6 +127,7 @@
 - [Kevin Kaichuang Yang](https://yangkky.github.io)
 - [Rocío Mercado Oropeza](https://rociomer.github.io)
 - [Pranav Rajpurkar](https://pranavrajpurkar.com)
+- [Wenhu Chen](https://wenhuchen.github.io)
 
 # Awesome YouTube Channels
 
