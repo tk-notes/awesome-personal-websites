@@ -70,6 +70,7 @@
 - [Claromes](https://claromes.com)
 - [Tina Mai](https://tinabmai.com)
 - [Samson Zhang](https://samsonzhang.com)
+- [Jacky](https://jzhao.xyz)
 
 ## AI & Machine Learning
 
