@@ -71,6 +71,7 @@
 - [Tina Mai](https://tinabmai.com)
 - [Samson Zhang](https://samsonzhang.com)
 - [Jacky](https://jzhao.xyz)
+- [Railly Hugo](https://www.railly.dev)
 
 ## AI & Machine Learning
 
