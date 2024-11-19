@@ -132,6 +132,7 @@
 - [Martin Steinegger](https://steineggerlab.com)
 - [Jue Wang](https://juewang.mystrikingly.com)
 - [Wenhu Chen](https://wenhuchen.github.io)
+- [Melanie Mitchell](https://melaniemitchell.me)
 
 # Awesome YouTube Channels
 
