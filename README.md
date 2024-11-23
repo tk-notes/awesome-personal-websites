@@ -133,6 +133,7 @@
 - [Jue Wang](https://juewang.mystrikingly.com)
 - [Wenhu Chen](https://wenhuchen.github.io)
 - [Melanie Mitchell](https://melaniemitchell.me)
+- [Jenny Zhang](https://www.jennyzhangzt.com)
 
 # Awesome YouTube Channels
 
