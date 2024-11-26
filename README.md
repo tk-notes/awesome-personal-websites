@@ -134,6 +134,7 @@
 - [Wenhu Chen](https://wenhuchen.github.io)
 - [Melanie Mitchell](https://melaniemitchell.me)
 - [Jenny Zhang](https://www.jennyzhangzt.com)
+- [Abhinav Gupta](https://www.guabhinav.com)
 
 # Awesome YouTube Channels
 
