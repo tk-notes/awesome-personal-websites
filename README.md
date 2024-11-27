@@ -135,6 +135,7 @@
 - [Melanie Mitchell](https://melaniemitchell.me)
 - [Jenny Zhang](https://www.jennyzhangzt.com)
 - [Abhinav Gupta](https://www.guabhinav.com)
+- [Beidi Chen](https://www.andrew.cmu.edu/user/beidic)
 
 # Awesome YouTube Channels
 
