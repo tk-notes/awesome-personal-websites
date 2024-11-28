@@ -136,6 +136,7 @@
 - [Jenny Zhang](https://www.jennyzhangzt.com)
 - [Abhinav Gupta](https://www.guabhinav.com)
 - [Beidi Chen](https://www.andrew.cmu.edu/user/beidic)
+- [Avantika Lal](https://avantikalal.github.io)
 
 # Awesome YouTube Channels
 
