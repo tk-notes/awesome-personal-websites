@@ -137,6 +137,7 @@
 - [Abhinav Gupta](https://www.guabhinav.com)
 - [Beidi Chen](https://www.andrew.cmu.edu/user/beidic)
 - [Avantika Lal](https://avantikalal.github.io)
+- [Will Connell](https://wconnell.github.io)
 
 # Awesome YouTube Channels
 
