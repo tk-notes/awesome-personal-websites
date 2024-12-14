@@ -138,6 +138,7 @@
 - [Beidi Chen](https://www.andrew.cmu.edu/user/beidic)
 - [Avantika Lal](https://avantikalal.github.io)
 - [Will Connell](https://wconnell.github.io)
+- [Danqi Chen](https://www.cs.princeton.edu/~danqic)
 
 # Awesome YouTube Channels
 
