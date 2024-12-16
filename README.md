@@ -139,6 +139,7 @@
 - [Avantika Lal](https://avantikalal.github.io)
 - [Will Connell](https://wconnell.github.io)
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic)
+- [Yuqing Du](https://yuqingd.github.io)
 
 # Awesome YouTube Channels
 
