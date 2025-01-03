@@ -141,6 +141,7 @@
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic)
 - [Yuqing Du](https://yuqingd.github.io)
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
+- [Patrick Hsu](https://patrickhsu.com)
 
 # Awesome YouTube Channels
 
