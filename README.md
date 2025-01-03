@@ -142,6 +142,7 @@
 - [Yuqing Du](https://yuqingd.github.io)
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
 - [Patrick Hsu](https://patrickhsu.com)
+- [Brian Hie](https://brianhie.com)
 
 # Awesome YouTube Channels
 
