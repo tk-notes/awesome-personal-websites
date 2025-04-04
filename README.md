@@ -143,6 +143,7 @@
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
 - [Patrick Hsu](https://patrickhsu.com)
 - [Brian Hie](https://brianhie.com)
+- [Takashi Ishida](https://takashiishida.github.io)
 
 # Awesome YouTube Channels
 
