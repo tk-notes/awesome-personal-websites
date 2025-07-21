@@ -73,6 +73,7 @@
 - [Jacky](https://jzhao.xyz)
 - [Railly Hugo](https://www.railly.dev)
 - [ahnest kitchen](https://ahnestkitchen.com)
+- [adammaj](https://github.com/adam-maj/adammaj.com)
 
 ## AI & Machine Learning
 
