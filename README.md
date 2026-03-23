@@ -142,6 +142,7 @@
 - [Will Connell](https://wconnell.github.io)
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic)
 - [Yuqing Du](https://yuqingd.github.io)
+- [Yaner Firenze](https://firenze42.com/en)
 - [Apoorva Srinivasan](https://www.apoorva-srinivasan.com)
 - [Patrick Hsu](https://patrickhsu.com)
 - [Brian Hie](https://brianhie.com)
