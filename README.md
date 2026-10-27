@@ -8,6 +8,7 @@
 - [TK](https://www.iamtk.co)
 - [Vaclav Smil](https://vaclavsmil.com)
 - [Patrick Collison](https://patrickcollison.com)
+- [Francis Luz](https://entry.fyi/francisluz)
 - [Webring](https://webring.xxiivv.com)
 - [Park Jihyeok](https://park.jihyeok.site)
 - [Lucas Ou-Yang](https://codelucas.com)
